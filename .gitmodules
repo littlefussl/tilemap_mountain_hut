@@ -1,0 +1,3 @@
+[submodule "mapmaking"]
+	path = mapmaking
+	url = git@github.com:gathertown/mapmaking.git
